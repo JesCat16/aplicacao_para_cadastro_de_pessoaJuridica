@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using ProjetoLead.Components;
 using Syncfusion.Blazor;
+using Syncfusion.Blazor.Inputs;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,7 +11,6 @@ builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
 builder.Services.AddQuickGridEntityFrameworkAdapter();
-builder.Services.AddSyncfusionBlazor();
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://localhost:7212/") });
 

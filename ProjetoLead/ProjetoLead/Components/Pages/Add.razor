@@ -1,17 +1,20 @@
 ﻿@page "/criar"
+@using Syncfusion.Blazor.Inputs
+@using System.ComponentModel.DataAnnotations
 
 <PageTitle>Adicionar Lead</PageTitle>
 
 <h1>Adicionar Lead</h1>
-<h3>Status: @Status</h3>
+<p>Status: @Status</p>
 
-<EditForm Model="@createModel" OnSubmit=@FormSubmitted>
+<EditForm Model="@createModel" OnValidSubmit="@FormSubmitted">
 	<DataAnnotationsValidator/>
 	<div class="form-row">
 		<div class="form-group col-md-6">
 			<label class="col-form-label">CNPJ</label>
-			<SfTextBox @Value="@createModel.cnpj"></SfTextBox>
-			<ValidationMessage For="@(() => createModel.cnpj)" ></ValidationMessage>
+			<InputText @bind-Value="@createModel.cnpj"></InputText>
+			<ValidationMessage For="@(() => createModel.cnpj)" >
+			</ValidationMessage>
 		</div>
 	</div>
 	<input type="submit" value="Submit" class="btn btn-primary"/>
