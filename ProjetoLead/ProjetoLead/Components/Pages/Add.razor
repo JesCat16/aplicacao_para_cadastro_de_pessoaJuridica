@@ -16,6 +16,18 @@
 			<ValidationMessage For="@(() => createModel.cnpj)" >
 			</ValidationMessage>
 		</div>
+		<div class="form-group col-md-6">
+			<label class="col-form-label">Razão Social</label>
+			<InputText @bind-Value="@createModel.razao_social"></InputText>
+			<ValidationMessage For="@(() => createModel.razao_social)">
+			</ValidationMessage>
+		</div>
+		<div class="form-group col-md-6">
+			<label class="col-form-label">CEP</label>
+			<InputText @bind-Value="@createModel.cep"></InputText>
+			<ValidationMessage For="@(() => createModel.cep)">
+			</ValidationMessage>
+		</div>
 	</div>
 	<input type="submit" value="Submit" class="btn btn-primary"/>
 </EditForm>
