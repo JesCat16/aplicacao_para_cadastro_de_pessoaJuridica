@@ -20,6 +20,7 @@
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="9.0.0" />
     <PackageReference Include="MudBlazor" Version="8.3.0" />
+    <PackageReference Include="Refit" Version="8.0.0" />
     <PackageReference Include="Syncfusion.Blazor" Version="29.1.33" />
     <PackageReference Include="Syncfusion.Blazor.Inputs" Version="29.1.33" />
   </ItemGroup>

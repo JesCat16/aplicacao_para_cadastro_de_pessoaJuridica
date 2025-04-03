@@ -7,6 +7,34 @@
       "RelativeMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|solutionrelative:projetolead\\components\\pages\\add.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|c:\\users\\jmdje\\onedrive\\documentos\\github\\aplicacao_de_cadastro_de_pessoajuridica\\projetolead\\projetolead\\cepconsult\\cepconsult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|solutionrelative:projetolead\\cepconsult\\cepconsult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|c:\\users\\jmdje\\onedrive\\documentos\\github\\aplicacao_de_cadastro_de_pessoajuridica\\projetolead\\projetolead\\cepconsult\\icepapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|solutionrelative:projetolead\\cepconsult\\icepapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|c:\\users\\jmdje\\onedrive\\documentos\\github\\aplicacao_de_cadastro_de_pessoajuridica\\projetolead\\projetolead\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|solutionrelative:projetolead\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888EFFA4-E89F-4839-9573-F97C96D52905}|ProjetoLead.API\\ProjetoLead.API.csproj|c:\\users\\jmdje\\onedrive\\documentos\\github\\aplicacao_de_cadastro_de_pessoajuridica\\projetolead\\projetolead.api\\cepconsult\\cepconsult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888EFFA4-E89F-4839-9573-F97C96D52905}|ProjetoLead.API\\ProjetoLead.API.csproj|solutionrelative:projetolead.api\\cepconsult\\cepconsult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{888EFFA4-E89F-4839-9573-F97C96D52905}|ProjetoLead.API\\ProjetoLead.API.csproj|c:\\users\\jmdje\\onedrive\\documentos\\github\\aplicacao_de_cadastro_de_pessoajuridica\\projetolead\\projetolead.api\\controllers\\leadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{888EFFA4-E89F-4839-9573-F97C96D52905}|ProjetoLead.API\\ProjetoLead.API.csproj|solutionrelative:projetolead.api\\controllers\\leadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|c:\\users\\jmdje\\onedrive\\documentos\\github\\aplicacao_de_cadastro_de_pessoajuridica\\projetolead\\projetolead\\cepconsult\\cepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|solutionrelative:projetolead\\cepconsult\\cepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|c:\\users\\jmdje\\onedrive\\documentos\\github\\aplicacao_de_cadastro_de_pessoajuridica\\projetolead\\projetolead\\objetos\\createmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|solutionrelative:projetolead\\objetos\\createmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|c:\\users\\jmdje\\onedrive\\documentos\\github\\aplicacao_de_cadastro_de_pessoajuridica\\projetolead\\projetolead\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|solutionrelative:projetolead\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,16 +47,8 @@
       "RelativeMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|solutionrelative:projetolead\\projetolead.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|c:\\users\\jmdje\\onedrive\\documentos\\github\\aplicacao_de_cadastro_de_pessoajuridica\\projetolead\\projetolead\\objetos\\createmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|solutionrelative:projetolead\\objetos\\createmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|c:\\users\\jmdje\\onedrive\\documentos\\github\\aplicacao_de_cadastro_de_pessoajuridica\\projetolead\\projetolead\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|solutionrelative:projetolead\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|c:\\users\\jmdje\\onedrive\\documentos\\github\\aplicacao_de_cadastro_de_pessoajuridica\\projetolead\\projetolead\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A8C08174-1565-4168-BE29-1B1621157141}|ProjetoLead\\ProjetoLead.csproj|solutionrelative:projetolead\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{888EFFA4-E89F-4839-9573-F97C96D52905}|ProjetoLead.API\\ProjetoLead.API.csproj|c:\\users\\jmdje\\onedrive\\documentos\\github\\aplicacao_de_cadastro_de_pessoajuridica\\projetolead\\projetolead.api\\mappers\\leadsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 318,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +98,137 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CepConsult.cs",
+              "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead.API\\CepConsult\\CepConsult.cs",
+              "RelativeDocumentMoniker": "ProjetoLead.API\\CepConsult\\CepConsult.cs",
+              "ToolTip": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead.API\\CepConsult\\CepConsult.cs",
+              "RelativeToolTip": "ProjetoLead.API\\CepConsult\\CepConsult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:17:49.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CepResponse.cs",
+              "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\CepConsult\\CepResponse.cs",
+              "RelativeDocumentMoniker": "ProjetoLead\\CepConsult\\CepResponse.cs",
+              "ToolTip": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\CepConsult\\CepResponse.cs",
+              "RelativeToolTip": "ProjetoLead\\CepConsult\\CepResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:15:17.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICepApi.cs",
+              "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\CepConsult\\ICepApi.cs",
+              "RelativeDocumentMoniker": "ProjetoLead\\CepConsult\\ICepApi.cs",
+              "ToolTip": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\CepConsult\\ICepApi.cs",
+              "RelativeToolTip": "ProjetoLead\\CepConsult\\ICepApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:14:41.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CepConsult.cs",
+              "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\CepConsult\\CepConsult.cs",
+              "RelativeDocumentMoniker": "ProjetoLead\\CepConsult\\CepConsult.cs",
+              "ToolTip": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\CepConsult\\CepConsult.cs",
+              "RelativeToolTip": "ProjetoLead\\CepConsult\\CepConsult.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:13:48.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateModel.cs",
+              "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Objetos\\CreateModel.cs",
+              "RelativeDocumentMoniker": "ProjetoLead\\Objetos\\CreateModel.cs",
+              "ToolTip": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Objetos\\CreateModel.cs",
+              "RelativeToolTip": "ProjetoLead\\Objetos\\CreateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:21:54.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.razor",
+              "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Components\\Pages\\Add.razor",
+              "RelativeDocumentMoniker": "ProjetoLead\\Components\\Pages\\Add.razor",
+              "ToolTip": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Components\\Pages\\Add.razor*",
+              "RelativeToolTip": "ProjetoLead\\Components\\Pages\\Add.razor*",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvywAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:49:20.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeadController.cs",
+              "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead.API\\Controllers\\LeadController.cs",
+              "RelativeDocumentMoniker": "ProjetoLead.API\\Controllers\\LeadController.cs",
+              "ToolTip": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead.API\\Controllers\\LeadController.cs",
+              "RelativeToolTip": "ProjetoLead.API\\Controllers\\LeadController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:18:06.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "ProjetoLead\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Components\\_Imports.razor",
+              "RelativeToolTip": "ProjetoLead\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T14:24:22.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LeadsMapper.cs",
+              "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead.API\\Mappers\\LeadsMapper.cs",
+              "RelativeDocumentMoniker": "ProjetoLead.API\\Mappers\\LeadsMapper.cs",
+              "ToolTip": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead.API\\Mappers\\LeadsMapper.cs",
+              "RelativeToolTip": "ProjetoLead.API\\Mappers\\LeadsMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:37:59.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "ProjetoLead\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "ProjetoLead\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T19:29:32.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoLead\\Program.cs",
@@ -91,56 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Add.razor",
-              "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Components\\Pages\\Add.razor",
-              "RelativeDocumentMoniker": "ProjetoLead\\Components\\Pages\\Add.razor",
-              "ToolTip": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Components\\Pages\\Add.razor",
-              "RelativeToolTip": "ProjetoLead\\Components\\Pages\\Add.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T19:49:20.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "ProjetoLead\\Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Components\\_Imports.razor",
-              "RelativeToolTip": "ProjetoLead\\Components\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T14:24:22.799Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LeadsMapper.cs",
-              "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead.API\\Mappers\\LeadsMapper.cs",
-              "RelativeDocumentMoniker": "ProjetoLead.API\\Mappers\\LeadsMapper.cs",
-              "ToolTip": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead.API\\Mappers\\LeadsMapper.cs",
-              "RelativeToolTip": "ProjetoLead.API\\Mappers\\LeadsMapper.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T14:37:59.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateModel.cs",
-              "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Objetos\\CreateModel.cs",
-              "RelativeDocumentMoniker": "ProjetoLead\\Objetos\\CreateModel.cs",
-              "ToolTip": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Objetos\\CreateModel.cs",
-              "RelativeToolTip": "ProjetoLead\\Objetos\\CreateModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T16:21:54.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Routes.razor",
               "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "ProjetoLead\\Components\\Routes.razor",
@@ -148,11 +249,12 @@
               "RelativeToolTip": "ProjetoLead\\Components\\Routes.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T13:11:25.765Z"
+              "WhenOpened": "2025-03-28T13:11:25.765Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "GetAllLeadsDTO.cs",
               "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead.API\\DTOs\\GetAllLeadsDTO.cs",
               "RelativeDocumentMoniker": "ProjetoLead.API\\DTOs\\GetAllLeadsDTO.cs",
@@ -160,23 +262,12 @@
               "RelativeToolTip": "ProjetoLead.API\\DTOs\\GetAllLeadsDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T14:37:34.287Z"
+              "WhenOpened": "2025-03-28T14:37:34.287Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "ProjetoLead\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "ProjetoLead\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T19:29:32.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead.API\\appsettings.json",
               "RelativeDocumentMoniker": "ProjetoLead.API\\appsettings.json",
@@ -184,11 +275,12 @@
               "RelativeToolTip": "ProjetoLead.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-27T20:00:55.567Z"
+              "WhenOpened": "2025-03-27T20:00:55.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "ProjetoLead.csproj",
               "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\ProjetoLead.csproj",
               "RelativeDocumentMoniker": "ProjetoLead\\ProjetoLead.csproj",
@@ -196,11 +288,12 @@
               "RelativeToolTip": "ProjetoLead\\ProjetoLead.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-27T19:27:13.132Z"
+              "WhenOpened": "2025-03-27T19:27:13.132Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Components\\App.razor",
               "RelativeDocumentMoniker": "ProjetoLead\\Components\\App.razor",
@@ -208,11 +301,12 @@
               "RelativeToolTip": "ProjetoLead\\Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T13:11:36.826Z"
+              "WhenOpened": "2025-03-28T13:11:36.826Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "ProjetoLead\\Components\\Layout\\NavMenu.razor",
@@ -220,11 +314,12 @@
               "RelativeToolTip": "ProjetoLead\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T19:42:12.238Z"
+              "WhenOpened": "2025-03-27T19:42:12.238Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\jmdje\\OneDrive\\Documentos\\GitHub\\aplicacao_de_cadastro_de_pessoaJuridica\\ProjetoLead\\ProjetoLead\\appsettings.json",
               "RelativeDocumentMoniker": "ProjetoLead\\appsettings.json",
@@ -232,7 +327,8 @@
               "RelativeToolTip": "ProjetoLead\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-27T20:00:45.588Z"
+              "WhenOpened": "2025-03-27T20:00:45.588Z",
+              "EditorCaption": ""
             }
           ]
         }
