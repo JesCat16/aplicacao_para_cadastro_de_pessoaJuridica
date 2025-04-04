@@ -1,108 +1,86 @@
-﻿@page "/criar"
-@using Syncfusion.Blazor.Inputs
-@using System.ComponentModel.DataAnnotations
+﻿@using System.ComponentModel.DataAnnotations
 @using ProjetoLead.CepConsult
+@page "/criar"
+@rendermode InteractiveServer
+@attribute [StreamRendering(true)]
+
 
 <PageTitle>Adicionar Lead</PageTitle>
 
 <h1>Adicionar Lead</h1>
 <p>Status: @Status</p>
 
-<EditForm Model="@createModel" OnSubmit="@FormSubmitted">
+<EditForm Model="@createModel" OnValidSubmit="@Submit" Formname="CreateForm">
 	<DataAnnotationsValidator/>
+	<ValidationSummary/>
 	<div class="form-row">
 		<div class="form-group col-md-6">
 			<label class="col-form-label">CNPJ</label>
 			<InputText @bind-Value="@createModel.cnpj"></InputText>
-			<ValidationMessage For="@(() => createModel.cnpj)" >
-			</ValidationMessage>
+			@* <ValidationMessage For="@(() => createModel.cnpj)" > *@
+			@* </ValidationMessage> *@
 		</div>
 		<div class="form-group col-md-6">
 			<label class="col-form-label">Razão Social</label>
 			<InputText @bind-Value="@createModel.razao_social"></InputText>
-			<ValidationMessage For="@(() => createModel.razao_social)">
-			</ValidationMessage>
+			@* <ValidationMessage For="@(() => createModel.razao_social)"> *@
+			@* </ValidationMessage> *@
 		</div>
 		<div class="form-group col-md-6">
 			<label class="col-form-label">CEP</label>
 			<InputText @bind-Value="@createModel.cep"></InputText>
-			<ValidationMessage For="@(() => createModel.cep)">
-			</ValidationMessage>
+			@* <ValidationMessage For="@(() => createModel.cep)"> *@
+			@* </ValidationMessage> *@
 		</div>
 		<div class="form-group col-md-6">
 			<label class="col-form-label">Número</label>
 			<InputNumber @bind-Value="@createModel.numero"></InputNumber>
-			<ValidationMessage For="@(() => createModel.numero)">
-			</ValidationMessage>
+			@* <ValidationMessage For="@(() => createModel.numero)"> *@
+			@* </ValidationMessage> *@
 		</div>
 		<div class="form-group col-md-6">
 			<label class="col-form-label">Complemento</label>
 			<InputText @bind-Value="@createModel.complemento"></InputText>
-			<ValidationMessage For="@(() => createModel.complemento)">
-			</ValidationMessage>
+			@* <ValidationMessage For="@(() => createModel.complemento)"> *@
+			@* </ValidationMessage> *@
 		</div>
-	</div>
-	<input type="submit" value="Submit" class="btn btn-primary" />
-</EditForm>
-<EditForm hidden="@isCEPvalid" Model="@createModel" OnSubmit="@FormSubmittedCEPInvalid">
-	<DataAnnotationsValidator />
-	<div class="form-row">
 		<div class="form-group col-md-6">
 			<label class="col-form-label">Endereço</label>
 			<InputText @bind-Value="@createModel.endereco"></InputText>
-			<ValidationMessage For="@(() => createModel.endereco)">
-			</ValidationMessage>
+			@* <ValidationMessage For="@(() => createModel.endereco)"> *@
+			@* </ValidationMessage> *@
 		</div>
 		<div class="form-group col-md-6">
-				<label class="col-form-label">Bairro</label>
-				<InputText @bind-Value="@createModel.bairro"></InputText>
-				<ValidationMessage For="@(() => createModel.bairro)">
-				</ValidationMessage>
+			<label class="col-form-label">Bairro</label>
+			<InputText @bind-Value="@createModel.bairro"></InputText>
+			@* <ValidationMessage For="@(() => createModel.bairro)"> *@
+			@* </ValidationMessage> *@
 		</div>
-			<div class="form-group col-md-6">
-				<label class="col-form-label">Cidade</label>
-				<InputText @bind-Value="@createModel.cidade"></InputText>
-				<ValidationMessage For="@(() => createModel.cidade)">
-				</ValidationMessage>
-			</div>
-			<div class="form-group col-md-6">
-				<label class="col-form-label">Estado</label>
-				<InputText @bind-Value="@createModel.estado"></InputText>
-				<ValidationMessage For="@(() => createModel.estado)">
-				</ValidationMessage>
-			</div>
+		<div class="form-group col-md-6">
+			<label class="col-form-label">Cidade</label>
+			<InputText @bind-Value="@createModel.cidade"></InputText>
+			@* <ValidationMessage For="@(() => createModel.cidade)"> *@
+			@* </ValidationMessage> *@
 		</div>
-	<input type="submit" value="Submit" class="btn btn-primary"/>
+		<div class="form-group col-md-6">
+			<label class="col-form-label">Estado</label>
+			<InputText @bind-Value="@createModel.estado"></InputText>
+			@* <ValidationMessage For="@(() => createModel.estado)"> *@
+			@* </ValidationMessage> *@
+		</div>
+		<div style="margin-top: 10px;">
+			<button type="submit" form="CreateForm">Register</button>
+		</div>
+	</div>
 </EditForm>
 
 @code {
-		string Status = "Não Adicionado";
+	string Status = "Não Adicionado";
 	CreateModel createModel = new CreateModel();
-	bool isCEPvalid { get; set; } = true;
 
-	void FormSubmitted()
+	void Submit()
 	{
-		var consulta = CepConsult.FindAddress(createModel.cep);
-
-		if (consulta == null)
-		{
-			isCEPvalid = false;
-			return;
-		}
-		else
-		{
-			CepResponse address = consulta.Result;
-			isCEPvalid = true;
-			createModel.endereco = address.Logradouro;
-			createModel.bairro = address.Bairro;
-			createModel.cidade = address.Localidade;
-			createModel.estado = address.Estado;
-		}
-	}
-
-	void FormSubmittedCEPInvalid()
-	{
-		
+		Console.WriteLine("Submit");
 	}
 }
   
